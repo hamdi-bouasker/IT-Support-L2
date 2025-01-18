@@ -3,7 +3,7 @@
 
 Hi, My name is **_Hamdi Bouasker_**, I am:
 
--  **_IT Manager with variety of skills, knowledge and experience._**
+-  **_IT Support Engineer Lead with variety of skills, knowledge and experience._**
 <br/>
 
 ### _Email me_
@@ -12,6 +12,10 @@ Hi, My name is **_Hamdi Bouasker_**, I am:
 ### _LinkedIn_
 
 <a href="https://linkedin.com/in/hamdi-bouasker" target="_blank"><img src="https://github.com/IT-Support-L2/icons/blob/main/portfolio-website.png"></a>
+
+### _Support me_
+
+<a href="https://buymeacoffee.com/hamdi.bouasker" target="_blank"><img src="https://github.com/hamdi-bouasker/portfolio/blob/master/bmc-brand-icon.png"></a>
 
 ### _Languages_ 
 - Native **_Arabic_**
